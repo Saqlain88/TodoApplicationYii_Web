@@ -2,9 +2,11 @@
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
     </a>
-    <h1 align="center">Yii 2 Advanced Project Template</h1>
+    <h1 align="center">Todo Application with Yii2 framnework</h1>
     <br>
 </p>
+
+A simple application where a user can create,update and delete his tasks for a day. Jquery (Ajax) is used to handle add requests. And this application is made with the help of Yii2 framework's advanced template .
 
 Yii 2 Advanced Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 developing complex Web applications with multiple tiers.
